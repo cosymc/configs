@@ -3,7 +3,11 @@
     "version": "0.0.1",
     "main": "index.js",
     "license": "Apache-2.0",
-    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:cosymc/configs.git",
+        "directory": "packages/react-eslint"
+    },
     "devDependencies": {
         "eslint": "^9.5.0",
         "eslint-plugin-react": "^7.34.3"
