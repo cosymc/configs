@@ -1,2 +1,2 @@
-# templates
-A repository for common project templates.
+# configs
+A repository for common project configs.
