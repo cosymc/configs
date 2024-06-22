@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "A repository for common project configs.",
   "license": "Apache-2.0",
-  "workspaces": [
-    "packages/*"
-  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:cosymc/configs.git"
