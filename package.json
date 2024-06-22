@@ -1,11 +1,11 @@
 {
-  "name": "@cosymc/configs",
-  "version": "0.0.2",
-  "description": "A repository for common project configs.",
-  "license": "Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:cosymc/configs.git"
-  },
-  "packageManager": "pnpm@9.1.4"
+    "name": "@cosymc/configs",
+    "version": "0.0.2",
+    "description": "A repository for common project configs.",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:cosymc/configs.git"
+    },
+    "packageManager": "pnpm@9.1.4"
 }
